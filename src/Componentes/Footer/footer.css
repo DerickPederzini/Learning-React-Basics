@@ -1,0 +1,22 @@
+
+.footer {
+    background: #20e0c0c4;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.icon{
+    width: 125%;
+}
